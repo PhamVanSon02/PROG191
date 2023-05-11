@@ -26,7 +26,7 @@ public class Cafemain extends JFrame{
     DefaultTableModel tbModel;
     DefaultComboBoxModel cbModel = new DefaultComboBoxModel();
     ArrayList<Drink> canList;
-    String filePath = "cand.dat";
+    String filePath = "./src/Data/cand.dat";
     int currentRow = -1;
 JFrame frontScreen;
     public Cafemain(String title, Login aThis) {
