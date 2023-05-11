@@ -23,6 +23,7 @@ public class Cafemain extends JFrame{
     private JRadioButton rdNo;
     private JTextField textPrice;
 
+    //abc
     DefaultTableModel tbModel;
     DefaultComboBoxModel cbModel = new DefaultComboBoxModel();
     ArrayList<Drink> canList;
